@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Xerofy – a smart print-ordering platform** helping students & local print shops connect seamlessly.
 
-- 🌱 I’m currently diving deep into **Redis, CUPS integration, microservices, and scalable queue-based systems**
+- 🌱 I’m currently Learning **Golang, and system design**
 
 - 👨‍💻 My work is available at [GitHub](https://github.com/suhas-developer07)
 
