@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas S</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=suhass1177318&label=Profile%20views&color=0e75b6&style=flat" alt="suhass1177318" />
@@ -13,9 +13,9 @@
 
 - 🧾 Here's my [Resume](https://drive.google.com/your-resume-link-here);
 
-- 💬 Ask me about **Web App Development, API Design, Cloud Integration, Print Automation**
+- 💬 Ask me about **Backend Development, Systems Architecture , Cloud Integration, Print Automation**
 
-- 📫 Reach me at **sharmasuhas22@gmail.com**
+- 📫 Reach me at **suhasdeveloper07@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 
